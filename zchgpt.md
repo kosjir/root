@@ -1,7 +1,4 @@
-# Working with C# in .NET
-
-You can define a simple class:
-
+**C#**
 ```csharp
 public class HelloWorld
 {
