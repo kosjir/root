@@ -1,4 +1,4 @@
 # root
 Nasledujici bude v ramecku
-``` CS
+```CS
 too je v ramecku
